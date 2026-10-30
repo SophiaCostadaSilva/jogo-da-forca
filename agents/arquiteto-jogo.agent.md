@@ -30,3 +30,6 @@ O jogo deverá possuir:
 - Histórico de partidas.
 - Ranking de jogadores.
 - Tela de vitória e derrota.
+
+Antes de implementar qualquer funcionalidade,
+explique quais arquivos serão criados ou alterados.
